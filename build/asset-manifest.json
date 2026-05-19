@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Esthers-Portfolio/static/css/main.586930fe.css",
+    "main.js": "/Esthers-Portfolio/static/js/main.397ae682.js",
+    "index.html": "/Esthers-Portfolio/index.html",
+    "main.586930fe.css.map": "/Esthers-Portfolio/static/css/main.586930fe.css.map",
+    "main.397ae682.js.map": "/Esthers-Portfolio/static/js/main.397ae682.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.586930fe.css",
+    "static/js/main.397ae682.js"
+  ]
+}
